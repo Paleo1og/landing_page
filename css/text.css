@@ -1,5 +1,6 @@
 .wrapper {
-  font-family: 'Harmattan', sans-serif;
+  font-family: 'Quicksand', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .text-logo {
@@ -35,7 +36,7 @@
 }
 
 .text-logo-small {
-  font-size: 18px;
+  font-size: 8px;
   line-height: 100%;
   font-weight: normal;
   letter-spacing: 2px;
